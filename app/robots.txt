@@ -1,5 +1,4 @@
-# Block all crawlers for /accounts
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepmodel.pages.dev/sitemap.xml
+sitemap: https://bokepmodel.pages.dev/sitemap.xml

@@ -39,7 +39,7 @@ const SideNav = ({ folders }: { folders: any }) => {
                 <SheetHeader>
                     <SheetTitle>Menu</SheetTitle>
                     <SheetDescription className="flex flex-row justify-around underline">
-                       <Link href="/" role="menuitem">
+                        <Link href="/" role="menuitem">
                             <SheetClose>Home</SheetClose>
                         </Link>
                     </SheetDescription>
